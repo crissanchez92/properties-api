@@ -1,0 +1,10 @@
+
+roofstock.Api/obj/
+
+roofstock.Data/obj/
+
+roofstock.Api/bin/
+
+roofstock.Data/bin/
+
+.vs/roofstock.Api/v16/.suo
